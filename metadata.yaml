@@ -1,0 +1,25 @@
+_repo: A-happy-New-Year-and-other-verses_64565
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Beresford, Charles Edward de la Poer
+    alias: Beresford, C. E. de la Poer
+    birthdate: 1850
+    deathdate: 1921
+    gutenberg_agent_id: '52956'
+    url: http://www.gutenberg.org/2009/agents/52956
+description: ''
+gutenberg_issued: '2021-02-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64565'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English poetry'
+- !lcc 'PR'
+- GITenberg
+title: A happy New Year, and other verses
+url: http://www.gutenberg.org/ebooks/64565
